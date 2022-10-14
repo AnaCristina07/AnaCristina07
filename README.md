@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou cursando Desenvolvedor web Java, no Instituto Proa.
 - 💬 Contate-me no email: cristinaengller@gmail.com
-- 😄 Pronouns: ela/dela
 <div align="center">
  <a href="https://github.com/AnaCristina07">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anacristina07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
